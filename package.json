@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@tenderly/hardhat-tenderly": "^2.5.2"
+  }
+}
